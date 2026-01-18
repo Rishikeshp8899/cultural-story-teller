@@ -1,0 +1,15 @@
+####################################
+# Python / Django
+####################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+venv310/
+env/
+ENV/
+
+*.sqlite3
+db.sqlite3
